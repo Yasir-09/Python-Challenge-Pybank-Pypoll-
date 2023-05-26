@@ -25,3 +25,11 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 The winner of the election based on popular vote
 Import the print results to file.txt
+
+
+The codes were used with slight modifications carefully to meet the requiremnet of the task.
+
+Reference Source of the codes utilized:
+https://github.com/toshitorihara/python-challenge/blob/main/PyPoll/main.py
+
+Some codes were used from the teaching modules of the Bootcamp of Data analytics and Visualization SCS UoFT.
